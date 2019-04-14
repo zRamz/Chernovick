@@ -20,3 +20,5 @@ double f(double x, double c, double a, double b, double d,int input)
 	}
 
 }
+
+ХУЙ
